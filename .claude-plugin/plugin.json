@@ -1,7 +1,7 @@
 {
   "name": "drawio-skills",
   "version": "1.0.0",
-  "description": "draw.io diagram creation skills — architecture, flowcharts",
+  "description": "draw.io diagram creation skills",
   "author": {
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
@@ -11,6 +11,6 @@
   "source": "./",
   "skills": [
     "./skills/drawio-architecture",
-    "./skills/drawio-flowchart",
+    "./skills/drawio-flowchart"
   ]
 }
