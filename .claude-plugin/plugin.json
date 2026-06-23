@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/drawio-skills",
-  "repository": "https://github.com/full-statck-skills/drawio-skills",
+  "homepage": "https://github.com/full-stack-skills/drawio-skills",
+  "repository": "https://github.com/full-stack-skills/drawio-skills",
   "source": "./",
   "skills": [
     "./skills/drawio-architecture",
