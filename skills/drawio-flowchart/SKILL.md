@@ -1,7 +1,7 @@
 ---
 name: drawio-flowchart
 description: Provides comprehensive guidance for draw.io flowcharts including flowchart creation, shapes, connectors, and diagramming. Use when the user asks about draw.io flowcharts, needs to create flowcharts, design process diagrams, or visualize workflows.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

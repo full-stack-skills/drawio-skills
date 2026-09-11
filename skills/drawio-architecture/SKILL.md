@@ -1,7 +1,7 @@
 ---
 name: drawio-architecture
 description: Provides comprehensive guidance for draw.io architecture diagrams including diagram creation, shapes, templates, and collaboration. Use when the user asks about draw.io architecture, needs to create architecture diagrams, design system diagrams, or collaborate on diagrams.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
