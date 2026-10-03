@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drawio Architecture"
+  short_description: "draw.io architecture diagrams including diagram creation…"
+  default_prompt: "Use $drawio-architecture to help with my current task: Provides comprehensive guidance for draw.io architecture diagrams including diagram creation, shapes, templates, and collaboration."

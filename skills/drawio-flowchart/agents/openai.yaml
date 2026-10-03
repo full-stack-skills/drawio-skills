@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drawio Flowchart"
+  short_description: "draw.io flowcharts including flowchart creation, shapes…"
+  default_prompt: "Use $drawio-flowchart to help with my current task: Provides comprehensive guidance for draw.io flowcharts including flowchart creation, shapes, connectors, and diagramming."
